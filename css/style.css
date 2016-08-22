@@ -1,7 +1,6 @@
 body {
-	background-image:url(../img/qqqq.jpg);
     background-attachment: fixed;
-    /*background-color: gray;*/
+    background-color: black;
     color: black;
     font-size: 87.5%;
     font-family: Arial, 'Lucida Sans Unicode';
@@ -102,13 +101,13 @@ a:hover, a:active{
 
 .mainContent{
 	width: 945px;
-	height: 420px;
+	height: 500px;
 	background-color:#333333;
 
 	}
 .leftContent{
-	width: 590px;
-	height: 420px;
+	width: 600px;
+	height: 500px;
 	float: left;
 	box-shadow: 0px 10px 30px 0px #000000;
 	}
@@ -124,7 +123,7 @@ a:hover, a:active{
 }	
 .rightContent{
 	width: 200px;
-	height: 350px;
+	height: 500px;
 	margin-left: 0px;
 	float: left;
 	}
@@ -159,5 +158,6 @@ a:hover, a:active{
 	border-radius: 5px;
 	border:0px;
 	margin-left: 0px;
+    margin-top: 0px;
 	background-color:#333333;
 }
